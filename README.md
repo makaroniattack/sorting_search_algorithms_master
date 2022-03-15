@@ -9,6 +9,9 @@ We implemented typical algorithms for sorting and searching in C# to prepare for
 3. The search continues until the desired value is matched. If the desired value is not found after searching to the end, the search is terminated.
   
 ### Linear Search  
+1. 
+2. 
+3. 
 ### Binary search tree  
 ### Hash table search  
 ## Sorting Algorithm  
